@@ -1,0 +1,32 @@
+/* Add here all your CSS customizations */
+.grey-bg {
+    background: none repeat scroll 0 0 #f7f8fa;
+    border-bottom: 1px solid #eaebec;
+    border-top: 1px solid #eaebec;
+}
+.progress-label-act{
+    margin-bottom: 20px;
+}
+.progress-act{
+    margin-bottom: 0px;
+}
+.lista-logos{
+display: inline-block;
+}
+.lista-logos a{
+padding-right: 20px;
+}
+.row-centered{
+text-align: center;
+}
+#footer .footer-ribbon {
+    margin: -67px 0 0 14px !important;
+}
+.logos{
+    margin: 0 auto;
+    width: 700px;
+}
+.logos a{
+padding-right: 50px;
+}
+
